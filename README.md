@@ -18,7 +18,7 @@ The RiverContaminantSimulator is a tool for simulating the behaviour of contamin
   * Plotly: visualise the simulation
   * Pandas, NumPy: data manipulation
   * imageio: generate the gif
-  * os: interaction with operating system
+  * os: file management
   * pytest: unit testing
 
 ## Data processing 
