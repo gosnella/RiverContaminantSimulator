@@ -42,7 +42,7 @@ The RiverContaminantSimulator is a tool for simulating the behaviour of contamin
 * Descriptive functions and variable names
 * Descriptive docstrings with variable types specified
 * Default arguments provided
-* Comments where necesssary
+* Comments where necessary
 * Functions properly tested
   
 ## Assumptions
