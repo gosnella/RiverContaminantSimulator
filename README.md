@@ -1,7 +1,10 @@
 # RiverContaminantSimulator
 
 ## Description
-The RiverContaminantSimulator is a tool for simulating the behaviour of contaminants within a river network. This project demonstrates how contaminants disperse and propagate within the water system. The data used to develop the simulation were released by Thames Water and Ordnance Survey.
+The RiverContaminantSimulator is a tool for simulating the behaviour of contaminants within a river network. The data used to develop the tools were released by Thames Water and Ordnance Survey. There are two may outputs from this project:
+
+* thamesWaterMap.html (download to view) - An interactive map showing the final state of the simulation. The user is able to observe information on the treatment sites and the rivers by hovering over these componets.
+* thames_water_simulation.gif - An active simulation showing the propergation of contaminats within the river network. 
 
 ## Data
 
