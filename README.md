@@ -30,8 +30,8 @@ The RiverContaminantSimulator is a tool for simulating the propergation of conta
 * Reverse sections of the river
 * Impute missing sections of the river
 * Remove sections of the river that were not connected to a treatment site
-* Approximate the origins of the contaminant. This was performed by identifying the closest point between the rivers and the treatment sites using the Haversine distance
-* Approximating river capacity so that when rivers merge contaminant gets diluted. Merging of contaminated paths results in accumulation of contaminant
+* Approximate the origins of the contaminant. This was performed by identifying the closest point on the river to the treatment site.
+* Approximating river capacity, so that when rivers merge contaminant becomes diluted. Merging of contaminated paths results in accumulation of contaminant
 
 ## Visualisation
 
