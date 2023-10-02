@@ -62,7 +62,7 @@ The RiverContaminantSimulator is a tool for simulating the propergation of conta
 ## Value:
 
 * Enable utility companies to identify the extent to which the river is contaminated
-* Identify regions of the network that are either saturated to take action, or contaminant-free to indicate safe zones (fishing, swimming, property purchase)
+* Identify regions of the network that are either saturated to take action, or contaminant-free to indicate safe zones (fishing, swimming)
 * Advise the closures of treatment sites so that contaminant levels remain below the regulatory requirements
 
 ## Versatility:
