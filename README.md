@@ -26,7 +26,7 @@ The RiverContaminantSimulator is a tool for simulating the propergation of conta
 
 ## Data processing 
 
-* Transform the British National Grid (BNG) coordinate reference system to the Geographic Coordinate System.
+* Transform the British National Grid (BNG) coordinate reference system to the Geographic Coordinate System
 * Reverse sections of the river
 * Impute missing sections of the river
 * Remove sections of the river that were not connected to a treatment site
@@ -61,8 +61,8 @@ The RiverContaminantSimulator is a tool for simulating the propergation of conta
   
 ## Value:
 
-* Enable utility companies to identify the extent to which the river is contaminated.
-* Identify regions of the network that are either saturated to take action, or contaminant-free to indicate safe zones (fishing, swimming, property purchase).
+* Enable utility companies to identify the extent to which the river is contaminated
+* Identify regions of the network that are either saturated to take action, or contaminant-free to indicate safe zones (fishing, swimming, property purchase)
 * Advise the closures of treatment sites so that contaminant levels remain below the regulatory requirements
 
 ## Versatility:
