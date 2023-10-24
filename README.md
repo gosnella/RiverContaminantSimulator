@@ -17,6 +17,7 @@ The RiverContaminantSimulator is a tool for simulating the propergation of conta
 * Neo4j (NoSQL): storing, managing, and querying. Python used for compiling Cypher query language
 * Oracle VM (Linux): optimise computational performance
 * Azure DevOps/GitHub: collaborating and managing tasks
+* AWS: data retrieval and storage
 * Python: develop the simulation
   * Plotly: visualise the simulation
   * Pandas, NumPy: data manipulation
